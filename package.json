@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "^11.1.2"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "clinic": "^5.0.1"
