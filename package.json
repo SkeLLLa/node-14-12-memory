@@ -13,6 +13,6 @@
     "got": "^11.1.2"
   },
   "devDependencies": {
-    "clinic": "^5.0.1"
+    "clinic": "^13.0.0"
   }
 }
